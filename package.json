@@ -1,0 +1,18 @@
+{
+  "name": "cicd-demo",
+  "version": "1.0.0",
+  "description": "A simple CI/CD demonstration using GitHub Actions",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "cicd",
+    "github-actions",
+    "continuous-integration",
+    "continuous-deployment"
+  ],
+  "author": "Karthikeya Reddy",
+  "license": "MIT"
+}
